@@ -1,6 +1,3 @@
-# Ultimate-Gaia-Airdrop-Guide
-Learn how to run a Gaia node, interact with the Gaia network, and earn XP. Dive into the ultimate guide for all your Gaia needs!
-
 # Ultimate Gaia AI Airdrop Farming Guide
 
 Welcome to the **Ultimate Gaia AI Airdrop Farming Guide**! This guide will walk you through the entire process of setting up and running a Gaia node to farm airdrops using the lightweight LLM model **Qwen2 0.5B Instruct**. Whether you're a beginner or an experienced user, this guide will help you maximize your Gaia XP earnings.
