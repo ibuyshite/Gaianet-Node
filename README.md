@@ -30,7 +30,7 @@ To run a Gaia node with the **Qwen2 0.5B Instruct** model, ensure your system me
 - **Storage**: 10GB free space
 - **Internet**: Stable and decent speed
 
-**Note**: Avoid using VPS plans for running Gaia nodes, as they perform poorly. Instead, use a local machine running Windows or Linux.
+**Note**: Avoid using VPS plans for running Gaia nodes, as they perform poorly. Instead, use a local machine running Windows or Linux. If VPS is the only option you, Go for it.
 
 ---
 
@@ -151,22 +151,22 @@ To interact with your node and earn XP, visit:
 
 ---
 
-## Automating Chat with Python Script
+## Automating Chat with Python Script(This earns you more Gaia Users XP🔥)
 1. **Create an API Key**:
    - Go to [Gaia API Keys](https://www.gaianet.ai/setting/gaia-api-keys) and create a new key.
 
 2. **Download the Python Script**:
    - Run:
      ```bash
-     wget https://github.com/mefury/Gaia-Auto-Chatbot/blob/main/gaiabot.py
+     curl -L -o gaiabot.py https://github.com/mefury/Ultimate-Gaia-Airdrop-Guide/raw/main/gaiabot.py
      ```
 
 3. **Run the Script**:
-   - Navigate to the downloaded folder and run:
+   - Now run this command to start the bot:
      ```bash
      python3 gaiabot.py
      ```
-   - Enter your API key when prompted.
+   - Enter your Gaia API key when prompted.
 
 ---
 
