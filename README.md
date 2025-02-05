@@ -155,7 +155,7 @@ Don't forget to convert Gaiapoints to CreditBalance everyday(Your Gaiapoints wil
 
 ## Automating Chat with Python Script(This earns you more Gaia Users XP🔥)
 1. **Create an API Key**:
-   - Go to [Gaia API Keys](https://www.gaianet.ai/setting/gaia-api-keys) and create a new key.
+   - Go to [Gaia API Keys](https://www.gaianet.ai/setting/gaia-api-keys) and create a new key. Save the API key somewhere cz you wont be able to access it again.
 
 2. **Download the Python Script**:
    - Run:
@@ -170,6 +170,20 @@ Don't forget to convert Gaiapoints to CreditBalance everyday(Your Gaiapoints wil
      ```
    - Enter your Gaia API key when prompted.
 
+Note: to run the bot in the background all the time, create a screen using
+```bash
+screen -S gaiabot
+```
+Run the bot here and press Ctrl + A + D to quit the screen.
+To to check if the bot is running run
+```bash
+screen -ls
+```
+Copy the whole gaianet screen ID and run
+```bash
+screen -r pastegaianetIDhere
+```
+Now press enter and you will be able to see logs again, To stop the bot press Ctrl + C
 ---
 
 ## Buying Your Own Domain
