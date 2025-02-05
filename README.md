@@ -139,6 +139,7 @@ gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/
    - Go to [Node Settings](https://www.gaianet.ai/setting/nodes).
    - Click the three dots next to your active node and select **Join Domain**.
    - Search for the domain **mefury.gaia.domain** and complete the steps.
+**DM me on Discord if you joined my domain for any help and instructions regarding Gaia(Social Links are in the last part)**
 
 2. **Verify Compatibility**:
    - Ensure your node's LLM model matches the domain's model.
