@@ -99,7 +99,7 @@ After installation, restart your terminal or relogin to update the CLI in your b
 To download the **Qwen2 0.5B Instruct** model and its configuration, run:
 
 ```bash
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen2-0.5b-instruct/config.json
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen-1.5-0.5b-chat/config.json
 ```
 
 ---
@@ -119,7 +119,7 @@ gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/
 
 ## Registering Your Node on Gaia Website
 1. **Sign Up on Gaia**:
-   - Visit [Gaia Signup](https://gaianet.ai/reward?invite_code=Rf0Axf) and complete the registration.
+   - Visit [Gaia Signup](https://gaianet.ai/reward?invite_code=RVdsfB) and complete the registration.
 
 2. **Complete Social Tasks**:
    - Go to [Reward Summary](https://www.gaianet.ai/reward-summary) and complete the tasks.
@@ -148,7 +148,7 @@ gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/
 
 ## Chatting with Your Node
 To interact with your node and earn XP, visit:
-- [Mefury Gaia Domain](https://mefury.gaia.domains)
+- [Mefury Gaia Domain](https://henlo.gaia.domains)
 
 Don't forget to convert Gaiapoints to CreditBalance everyday(Your Gaiapoints will remain same after converting and You can convert 1000 gaiapoints everyday)
 
@@ -161,7 +161,7 @@ Don't forget to convert Gaiapoints to CreditBalance everyday(Your Gaiapoints wil
 2. **Download the Python Script**:
    - Run:
      ```bash
-     curl -L -o gaiabot.py https://github.com/mefury/Ultimate-Gaia-Airdrop-Guide/raw/main/gaiabot.py
+     curl -L -o gaiabot.py https://github.com/ibuyshite/Gaianet-Node/raw/main/gaiabot.py
      ```
 
 3. **Run the Script**:
@@ -182,22 +182,10 @@ screen -ls
 ```
 Copy the whole gaianet screen ID and run
 ```bash
-screen -r pastegaianetIDhere
+screen -r gaiabot
 ```
 Now press enter and you will be able to see logs again, To stop the bot press Ctrl + C
 ---
-
-## Buying Your Own Domain
-To purchase your own domain, visit:
-- [Gaia Domain Purchase](https://www.gaianet.ai/gaia-domain-name?referralCode=Rf0Axf)  
-  **Referral Code**: Rf0Axf (supports my work!)
-
----
-
-## Troubleshooting and Support
-If you encounter any issues or need assistance, feel free to reach out:
-- **Discord**: @mefury
-- **Twitter**: [@meefury](https://x.com/meefury)
 
 ---
 
