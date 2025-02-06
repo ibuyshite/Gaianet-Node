@@ -148,7 +148,7 @@ gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/
 
 ## Chatting with Your Node
 To interact with your node and earn XP, visit:
-- [Mefury Gaia Domain](https://henlo.gaia.domains)
+- [Henlo Gaia Domain](https://henlo.gaia.domains)
 
 Don't forget to convert Gaiapoints to CreditBalance everyday(Your Gaiapoints will remain same after converting and You can convert 1000 gaiapoints everyday)
 
