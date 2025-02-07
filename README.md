@@ -19,39 +19,6 @@ To run a Gaia node with the **Qwen2 0.5B Instruct** model, ensure your system me
 
 ## Setting Up Your Environment
 
-### For Windows Users
-1. **Enable WSL (Windows Subsystem for Linux)**:
-   - Open PowerShell as Administrator and run:
-     ```bash
-     wsl --install
-     ```
-   - Restart your computer if prompted.
-
-2. **Enable Virtualization in BIOS**:
-   - **For Intel CPUs**:
-     - Restart your computer and enter BIOS/UEFI settings.
-     - Look for "Intel VT-x" or "Virtualization Technology" and enable it.
-   - **For AMD CPUs**:
-     - Restart your computer and enter BIOS/UEFI settings.
-     - Look for "AMD-V" or "SVM Mode" and enable it.
-
-3. **Install Ubuntu on WSL**:
-   - Open Microsoft Store and search for "Ubuntu".
-   - Install the latest version of Ubuntu.
-   - Launch Ubuntu from the Start menu and complete the setup.
-
-4. **Update and Upgrade Ubuntu**:
-   - Run the following commands in the Ubuntu terminal:
-     ```bash
-     sudo apt update && sudo apt upgrade -y
-     ```
-
-5. **Install Python3**:
-   - Run:
-     ```bash
-     sudo apt install python3
-     ```
-
 ### For Linux Users
 1. **Update and Upgrade System**:
    - Run:
