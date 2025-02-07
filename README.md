@@ -96,10 +96,10 @@ After installation, restart your terminal or relogin to update the CLI in your b
 ---
 
 ## Downloading Config and LLM Model
-To download the **Qwen2 0.5B Instruct** model and its configuration, run:
+To download the **Llama-3.2-1B** model and its configuration, run:
 
 ```bash
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen-1.5-0.5b-chat/config.json
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.2-1b-instruct/config.json
 ```
 
 ---
