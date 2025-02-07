@@ -1,7 +1,3 @@
-# Title: GaiaAI Chatbot
-# Created by: MEFURY
-# Twitter: https://x.com/meefury
-
 # The script will print the credit part and ask for the API key
 
 import requests
@@ -28,6 +24,39 @@ RETRY_DELAY = 5  # Seconds between retries
 QUESTION_DELAY = 1  # Seconds between successful questions
 
 QUESTIONS = [
+
+    "What is 1 + 1",
+    "What is 2 + 2",
+    "What is 3 + 1",
+    "What is 4 + 2",
+    "What is 5 + 3",
+    "What is 6 + 1",
+    "What is 7 + 2",
+    "What is 8 + 3",
+    "What is 9 + 1",
+    "What is 10 + 5",
+    "What is 7 + 5",
+    "What is 9 + 6",
+    "What is 11 + 2",
+    "What is 12 + 3",
+    "What is 15 + 4",
+    "What is 18 + 2",
+    "What is 2 - 1",
+    "What is 4 - 2",
+    "What is 5 - 3",
+    "What is 6 - 2",
+    "What is 7 - 5",
+    "What is 8 - 4",
+    "What is 9 - 6",
+    "What is 10 - 3",
+    "What is 12 - 7",
+    "What is 15 - 5",
+    "What is 13 - 6",
+    "What is 14 - 8",
+    "What is 16 - 9",
+    "What is 20 - 4",
+    "What is 22 - 10",
+    "What is 25 - 5",
     "Explain in extreme detail the quantum mechanical implications of consciousness in biological systems, including potential mathematical frameworks and experimental verification methods.",
     "Describe the complete process of protein folding from first principles, including all relevant thermodynamic considerations and computational modeling approaches.",
     "Develop a comprehensive comparison between classical machine learning architectures and quantum neural networks, including mathematical formulations and practical implementation challenges.",
@@ -57,7 +86,37 @@ QUESTIONS = [
     "Develop a comprehensive model of dark energy's influence on cosmic expansion, including modified gravity theories and observational constraints.",
     "Explain the complete mathematical formulation of quantum machine learning algorithms including complexity analysis and practical implementation challenges.",
     "Describe in extreme detail the process of cellular reprogramming for organ regeneration, including epigenetic remodeling and tissue engineering techniques.",
-    "Formulate a complete solution to the black hole information paradox including holographic principle applications and quantum gravity implications."
+    "Formulate a complete solution to the black hole information paradox including holographic principle applications and quantum gravity implications.",
+    "What is a neural network?",
+    "What is RNA?",
+    "What is deep learning?",
+    "What is a black hole?",
+    "What is a star?",
+    "What is dopamine?",
+    "What is algorithmic fairness?",
+    "What is turbulence?",
+    "What is a circular economy?",
+    "What is plasma in fusion research?",
+    "What is the role of mitochondria?",
+    "What is superposition in quantum mechanics?",
+    "What is the Big Bang theory?",
+    "What is cellular respiration?",
+    "What is a VPN?",
+    "What is a biosphere?",
+    "What is a Calabi-Yau manifold?",
+    "What is the hippocampus?",
+    "What is NP-complete?",
+    "What is ocean acidification?",
+    "What is electrical resistance?",
+    "What is a neurodegenerative disease?",
+    "What is entanglement in quantum computing?",
+    "What is neurofeedback?",
+    "What is artificial general intelligence?",
+    "What are monoclonal antibodies?",
+    "What is cosmic microwave background?",
+    "What is a quantum circuit?",
+    "What is gene editing?",
+    "What is a singularity in astrophysics?"
 ]
 
 def chat_with_ai(api_key: str, question: str) -> str:
@@ -127,8 +186,8 @@ def run_bot(api_key: str):
 
 def main():
     print("Title: GaiaAI Chatbot")
-    print("Created by: MEFURY")
-    print("Twitter: https://x.com/meefury")
+    print("Created by: RB")
+    print("Twitter: https://x.com/ibuyshite")
     api_key = input("Enter your API key: ")
     run_bot(api_key)
 
