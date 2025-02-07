@@ -4,23 +4,6 @@ Welcome to the **Ultimate Gaia AI Airdrop Farming Guide**! This guide will walk 
 
 ---
 
-## Table of Contents
-1. [System Requirements](#system-requirements)
-2. [Setting Up Your Environment](#setting-up-your-environment)
-   - [For Windows Users](#for-windows-users)
-   - [For Linux Users](#for-linux-users)
-3. [Installing Gaia Node CLI](#installing-gaia-node-cli)
-4. [Downloading Config and LLM Model](#downloading-config-and-llm-model)
-5. [Running Your Gaia Node](#running-your-gaia-node)
-6. [Registering Your Node on Gaia Website](#registering-your-node-on-gaia-website)
-7. [Joining a Domain](#joining-a-domain)
-8. [Chatting with Your Node](#chatting-with-your-node)
-9. [Automating Chat with Python Script](#automating-chat-with-python-script)
-10. [Buying Your Own Domain](#buying-your-own-domain)
-11. [Troubleshooting and Support](#troubleshooting-and-support)
-
----
-
 ## System Requirements
 To run a Gaia node with the **Qwen2 0.5B Instruct** model, ensure your system meets the following minimum requirements:
 
