@@ -1,4 +1,4 @@
-# Ultimate Gaia AI Airdrop Farming Guide
+# Gaianet AI Airdrop Farming Guide
 
 Welcome to the **Ultimate Gaia AI Airdrop Farming Guide**! This guide will walk you through the entire process of setting up and running a Gaia node to farm airdrops using the lightweight LLM model **Qwen2 0.5B Instruct**. Whether you're a beginner or an experienced user, this guide will help you maximize your Gaia XP earnings.
 
@@ -12,8 +12,6 @@ To run a Gaia node with the **Qwen2 0.5B Instruct** model, ensure your system me
 - **VRAM**: 8GB (optional but recommended)
 - **Storage**: 10GB free space
 - **Internet**: Stable and decent speed
-
-**Note**: Avoid using VPS plans for running Gaia nodes, as they perform poorly. Instead, use a local machine running Windows or Linux. If VPS is the only option you, Go for it.
 
 ---
 
