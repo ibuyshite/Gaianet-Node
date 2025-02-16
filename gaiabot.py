@@ -18,7 +18,7 @@ logging.basicConfig(
 
 # Configuration
 BASE_URL = "https://henlo.gaia.domains"
-MODEL = "qwen-2.5-coder-0.5b"
+MODEL = "llama-3.2-1b"
 MAX_RETRIES = 100  # Essentially infinite retries
 RETRY_DELAY = 5  # Seconds between retries
 QUESTION_DELAY = 1  # Seconds between successful questions
